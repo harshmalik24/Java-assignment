@@ -14,7 +14,7 @@ public class Problem8 {
 
         int  seconds = sec;                         // calculating seconds left
 
-        // printing output in desired format
+        // return output in desired format
         return days + " Days(s) " + hours + " Hours(s) " + minutes + " Minutes(s) " + seconds + " Seconds(s)";
     }
     public static void main(String[] args) {
